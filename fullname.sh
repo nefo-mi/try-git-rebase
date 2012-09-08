@@ -1,10 +1,9 @@
 #!/bin/bash
 # for Bash 4.0
 
-declare -A fullnames
+declare -a fullnames
 fullnames[ichiro]='Ichiro Suzuki'
 fullnames[tomohiro]='Tomohiro TAIRA'
-fullnames[nefo]='MitsuhideNefo'
 
 
 

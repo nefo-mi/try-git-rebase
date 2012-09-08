@@ -1,3 +1,3 @@
 #!/bin/sh
 
-echo 'Hello, Git Dojo!'
+echo 'Hello, Git Dojo#2!'
